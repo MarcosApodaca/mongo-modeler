@@ -20,6 +20,7 @@ function App() {
       </CanvasSchemaProvider>
     </CanvasViewSettingsProvider>
   );
+  
 }
 
 export default App;
